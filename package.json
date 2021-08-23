@@ -1,0 +1,35 @@
+{
+  "name": "jest-the-beginning-javascript-annasoos",
+  "version": "1.0.0",
+  "description": "Testing is an important part of software development.\r It takes time to write tests but it speeds up the long term development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      [
+        "./node_modules/jest-html-reporter",
+        {
+          "pageTitle": "Test Report"
+        }
+      ]
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/jest-the-beginning-javascript-annasoos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/jest-the-beginning-javascript-annasoos/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/jest-the-beginning-javascript-annasoos#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jest": "^27.0.6",
+    "jest-html-reporter": "^3.4.1"
+  }
+}

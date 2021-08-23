@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1629312577962" clover="3.2.0">
+  <project timestamp="1629312577963" name="All files">
+    <metrics statements="123" coveredstatements="123" conditionals="50" coveredconditionals="50" methods="13" coveredmethods="13" elements="186" coveredelements="186" complexity="0" loc="123" ncloc="123" packages="2" files="9" classes="9"/>
+    <package name="advanced">
+      <metrics statements="28" coveredstatements="28" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2"/>
+      <file name="greet.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\advanced\greet.js">
+        <metrics statements="15" coveredstatements="15" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+      <file name="isNerdy.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\advanced\isNerdy.js">
+        <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="simple">
+      <metrics statements="95" coveredstatements="95" conditionals="36" coveredconditionals="36" methods="11" coveredmethods="11"/>
+      <file name="declareWinner.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\simple\declareWinner.js">
+        <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="31" type="stmt"/>
+        <line num="13" count="31" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="15" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="14" type="stmt"/>
+        <line num="20" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+      <file name="findUnique.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\simple\findUnique.js">
+        <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="gps.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\simple\gps.js">
+        <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="maxDiff.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\simple\maxDiff.js">
+        <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="11" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+      <file name="monkeyTalk.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\simple\monkeyTalk.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="palindromeChainLength.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\simple\palindromeChainLength.js">
+        <metrics statements="25" coveredstatements="25" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="14" type="stmt"/>
+        <line num="3" count="14" type="stmt"/>
+        <line num="4" count="14" type="stmt"/>
+        <line num="5" count="14" type="stmt"/>
+        <line num="6" count="14" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="26" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+      <file name="uniqueInOrder.js" path="C:\Users\annas\Desktop\development\codecool_repos\jest-the-beginning-javascript-annasoos\simple\uniqueInOrder.js">
+        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="13" type="stmt"/>
+        <line num="5" count="13" type="stmt"/>
+        <line num="6" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
